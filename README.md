@@ -6,5 +6,6 @@ Static spectrogram for tattoo design
 
 Dynamic spectrogram video (with sound)
 <div style="display: flex; justify-content: left;margin-right: auto;">
-<video width="100%" height="auto" src="BARS_concat_song_4_tat.mp4"/>
+<video width="100%" height="auto" controls> <source src="BARS_concat_song_4_tat.mp4"/>
+</video>
 </div>
