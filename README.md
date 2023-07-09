@@ -5,7 +5,4 @@ Static spectrogram for tattoo design
 ![BARS_concat_song_4_tat_static_specs](BW_composite_spectrogram.png)
 
 Dynamic spectrogram video (with sound)
-<div style="display: flex; justify-content: left;margin-right: auto;">
-<video width="100%" height="auto" controls> <source src="BARS_concat_song_4_tat.mp4"/>
-</video>
-</div>
+[![colored spectrogram of barn swallow song](BARS_concat_song_4_tat_static_specs/BARS_concat_song_4_tat_1.png)](BARS_concat_song_4_tat.mp4)
